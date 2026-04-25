@@ -56,7 +56,7 @@ To keep this list useful and trustworthy, please follow these rules:
 
 ### CLI Tools
 
-- _No entries yet._
+- `thor` — self-hosted build tool for the Zap programming language. [GitHub](https://github.com/thezaplang/thor)
 
 ### Applications
 
